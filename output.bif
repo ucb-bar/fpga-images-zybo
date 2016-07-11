@@ -1,0 +1,6 @@
+the_ROM_image:
+{
+	[bootloader]/scratch/dsoung/zybo-test/rocket-chip/fpga-zynq/zybo/zybo_rocketchip_DefaultFPGASmallConfig/zybo_rocketchip_DefaultFPGASmallConfig.sdk/FSBL/Debug/FSBL.elf
+	/scratch/dsoung/zybo-test/rocket-chip/fpga-zynq/zybo/zybo_rocketchip_DefaultFPGASmallConfig/zybo_rocketchip_DefaultFPGASmallConfig.runs/impl_1/rocketchip_wrapper.bit
+	/scratch/dsoung/zybo-test/rocket-chip/fpga-zynq/zybo/soft_build/u-boot.elf
+}
